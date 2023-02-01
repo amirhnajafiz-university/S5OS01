@@ -1,4 +1,6 @@
-# OS Lab
+<h1 align="center">
+  S5OS01
+</h1>
 
 This is my operating systems lab repository.<br />
 
